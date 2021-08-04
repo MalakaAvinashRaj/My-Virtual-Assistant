@@ -1,0 +1,18 @@
+1. recognize voice
+2. talk to me
+3. speach recognization and talk  back
+4. conversation
+
+5. google search reults
+6. wikipedia
+7. email automation
+8. youtube automation
+9. whatsapp automation
+10. online shoping
+11. flipkart and amazon auto buy
+
+12. personal alarm
+13. personal remainder
+14. notification reader
+15. email reader
+
